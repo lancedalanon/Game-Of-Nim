@@ -1,9 +1,3 @@
-/*
-DALANON, Lance Orville R.
-BSIT 2-2
-
-Machine Problem #3 - Game of Nim
-*/
 import java.util.*;
 
 interface Gamer {
